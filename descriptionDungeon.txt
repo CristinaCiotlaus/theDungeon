@@ -1,0 +1,3 @@
+The Dungeopn is a simple text-based game where the player can choose to attack an enemy, use a healing potion, or flee from battle. The game loop continues until the player defeats all enemies or dies.
+
+The code uses the Scanner class to get user input and the Random class to generate random numbers for enemy health and attack damage. It also uses arrays to store enemy names and switch statements to handle different user inputs.
